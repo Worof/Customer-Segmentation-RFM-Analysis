@@ -50,7 +50,6 @@ The dataset contains customer transaction records including:
 5. Generate RFM Codes
 6. Customer Segmentation
 7. Data Visualization
-8. Business Insights
 
 ---
 
@@ -58,31 +57,31 @@ The dataset contains customer transaction records including:
 
 ## Customer Distribution Across Segments
 
-![Customer Distribution](customer segments.png)
+![Customer Distribution](01.jpg)
 
 ---
 
 ## Mean RFM Scores by Customer Segment
 
-![Mean RFM Scores](mean_rfm_scores.png)
+![Mean RFM Scores](02.jpg)
 
 ---
 
 ## Distribution of Recency, Frequency & Monetary Scores
 
-![RFM Score Distribution](rfm_boxplots.png)
+![RFM Score Distribution](03.jpg)
 
 ---
 
 ## Sample Customer Segmentation Output
 
-![Customer Segmentation Table](segmentation_table.png)
+![Customer Segmentation Table](04.jpg)
 
 ---
 
 ## Example: Champion Customers
 
-![Champion Customers](champions.png)
+![Champion Customers](05.jpg)
 
 ---
 
@@ -160,19 +159,7 @@ This segmentation enables businesses to:
 - Deliver personalized marketing campaigns.
 - Improve customer retention.
 - Prioritize high-value customers.
-- Identify churn risks early.
 - Optimize marketing budget allocation.
-- Increase Customer Lifetime Value (CLV).
-
----
-
-# 🚀 Future Improvements
-
-- Integrate Customer Lifetime Value (CLV) prediction.
-- Apply K-Means clustering for comparison.
-- Build an interactive Power BI dashboard.
-- Develop automated customer recommendation strategies.
-- Deploy the analysis as an interactive web application.
 
 ---
 
