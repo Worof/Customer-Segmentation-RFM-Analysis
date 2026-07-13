@@ -58,31 +58,33 @@ The dataset contains customer transaction records including:
 
 ## Customer Distribution Across Segments
 
-> *(Insert Customer Segment Count chart here)*
+![Customer Distribution](customer segments.png)
 
 ---
 
 ## Mean RFM Scores by Customer Segment
 
-> *(Insert Mean RFM Scores chart here)*
+![Mean RFM Scores](mean_rfm_scores.png)
 
 ---
 
 ## Distribution of Recency, Frequency & Monetary Scores
 
-> *(Insert Boxplots here)*
+![RFM Score Distribution](rfm_boxplots.png)
 
 ---
 
 ## Sample Customer Segmentation Output
 
-> *(Insert DataFrame screenshot here)*
+![Customer Segmentation Table](segmentation_table.png)
 
 ---
 
 ## Example: Champion Customers
 
-> *(Insert Champions DataFrame screenshot here)*
+![Champion Customers](champions.png)
+
+---
 
 ---
 
