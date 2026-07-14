@@ -79,8 +79,6 @@ The dataset contains customer transaction records including:
 
 ---
 
-## Example: Champion Customers
-
 ![Champion Customers](05.jpg)
 
 ---
